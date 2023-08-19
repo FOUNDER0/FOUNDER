@@ -36,7 +36,7 @@
 .banner1{
     margin: 1dvh;
     border-radius: 0.3dvh;
-    border:0.3dvh solid #404040;
+    border:0.1dvh solid #404040;
     background-color: #ffffff;
     width: 96dvh;
     height: 12dvh;
@@ -170,14 +170,14 @@
 
 .reklam img{
     border-radius: 0.3dvh;
-    border: 0.2dvh solid #202020;
+    border: 0.1dvh solid #202020;
     background-color: #000000;
     width: 22dvh;
     height: 50dvh;
     margin: 3dvh;
 }
 .reklam p{
-    border: 0.3dvh solid #000000;
+    border: 0.1dvh solid #000000;
     border-radius: 0.2dvh;
     width: 16dvh;
     height: 3dvh;
